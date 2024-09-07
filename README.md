@@ -1,35 +1,35 @@
 # 💫 About Me:
 Hello! I’m Japneet Singh Baluja, and I’d love to share a bit about my journey with you. My story is one of continual learning, diverse experiences, and a passion for technology and creativity. Let’s dive into the different facets of my background that have shaped who I am today.
 
-# Educational Background
+## Educational Background
 My academic journey began with a Bachelor’s degree in Information Technology, which laid the groundwork for my career in tech. The program provided me with a solid foundation in various IT concepts and practical skills, sparking my interest in web development and software solutions. After completing my undergraduate studies, I decided to further my education and am currently pursuing a Master of Applied Computing at Wilfrid Laurier University. This advanced degree is expanding my knowledge and skills, particularly in areas like data analysis, software development, and project management, preparing me for the evolving demands of the tech industry.
 
-## Professional Experience
-# Internships
+# Professional Experience
+## Internships
 
 Throughout my academic journey, I had the opportunity to gain hands-on experience through several internships. One of my notable internships was with Laadli Foundation Trust, where I worked as a Front End Developer. My role involved creating and optimizing web pages for their platform, Voltour.org, using HTML, CSS, and JavaScript. This experience honed my skills in front-end development and gave me insight into effective teamwork and project execution.
 
 Another internship provided me with exposure to full-stack development, further solidifying my understanding of both client and server-side technologies. These internships not only equipped me with practical skills but also instilled a strong work ethic and a problem-solving mindset.
 
-# Web Developer Head at IEEE GTBIT
+## Web Developer Head at IEEE GTBIT
 
 A significant milestone in my career was serving as the Web Developer Head at IEEE GTBIT. In this role, I led a team in developing and maintaining the organization's website. We worked on various projects, including creating engaging and informative content for our audience. This position allowed me to enhance my leadership skills, coordinate with a diverse team, and manage multiple web development projects simultaneously.
 
-# Volunteering
+## Volunteering
 Volunteering has been a fulfilling part of my journey. I’ve had the privilege of working with Bal Seva Orphanage in New Delhi, India, where I assisted children with disabilities. This experience was incredibly rewarding and taught me the value of empathy, patience, and the impact of contributing to a community in need.
 
-# Digital Marketing and Graphic Design
+## Digital Marketing and Graphic Design
 My passion for creativity led me to explore digital marketing and graphic design. During my time at various student societies and as a freelancer, I designed marketing materials, social media posts, and promotional content. This work involved using tools like Adobe Illustrator and Canva to create visually appealing designs. Additionally, I’ve managed digital marketing campaigns, which helped me understand the nuances of online engagement and audience targeting.
 
-# Freelancing
+## Freelancing
 Freelancing has been a significant aspect of my career, allowing me to work on diverse projects and collaborate with clients from various industries. As a freelancer, I’ve tackled web development projects, graphic design tasks, and digital marketing initiatives. Each project has been a learning experience, helping me refine my skills and adapt to different client needs.
 
-# Projects
+## Projects
 I’ve worked on several exciting projects that showcase my skills and creativity. One of my standout projects is "Taste on Wheels," a web application that displays information about food trucks, including their cuisines, opening hours, and reviews. This project involved using technologies like Node.js, Express, MongoDB, and EJS to create a dynamic and interactive platform for users to explore food trucks and provide reviews.
 
 Another notable project is "Survey IT," a platform that allows users to create and manage surveys. This project required me to integrate secure user authentication, real-time search features, and an interactive dashboard. Hosting the project on Vercel, I focused on delivering a seamless user experience and robust functionality.
 
-# Conclusion
+## Conclusion
 In summary, my journey has been a blend of academic achievements, professional experiences, and personal passions. From my Bachelor’s degree to my current Master’s program, my internships and leadership roles, and my work in digital marketing and freelancing, each experience has contributed to my growth. I’m excited to continue exploring new opportunities and challenges in the tech industry, leveraging my skills and experiences to make a meaningful impact. Thanks for taking the time to learn more about me!
 
 
